@@ -1,12 +1,12 @@
-import workintechImage from '../assets/workintech-image.png'
-import randomjokesImage from '../assets/randomjokes-images.png'
-import journeyImage from '../assets/journey-image.png'
+import workintechImage from '../assets/my-portfolio.png'
+import randomjokesImage from '../assets/pizza.png'
+import journeyImage from '../assets/pizza-challenge.png'
 
 function Projects({ projects }) {
   const projectImages = {
-    'workintech-image.png': workintechImage,
-    'randomjokes-images.png': randomjokesImage,
-    'journey-image.png': journeyImage,
+    'my-portfolio.png': workintechImage,
+    'pizza.png': randomjokesImage,
+    'pizza-challenge.png': journeyImage,
   }
   
   const getImageUrl = (imageName) => {

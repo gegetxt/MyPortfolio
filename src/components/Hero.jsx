@@ -20,11 +20,11 @@ function Hero({ hero }) {
           <p className="hero__text">{hero.title}</p>
           <div className="button-group">
             <button className="btn btn-primary">{hero.buttons.primary}</button>
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="btn btn-outline icon-btn">
+            <a href="https://github.com/gegetxt" target="_blank" rel="noreferrer" className="btn btn-outline icon-btn">
               <FaGithub size={20} />
               {hero.buttons.github}
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="btn btn-outline icon-btn">
+            <a href="http://www.linkedin.com/in/gizem-g-4b48a1245" target="_blank" rel="noreferrer" className="btn btn-outline icon-btn">
               <FaLinkedin size={20} />
               {hero.buttons.linkedin}
             </a>

@@ -11,7 +11,7 @@ function Header({ navItems, hireLabel, onHireClick }) {
       <div className="container header__content">
         <div className="logo">
           <div className="logo__circle">
-            <span className="logo__letter">A</span>
+            <span className="logo__letter">G</span>
           </div>
         </div>
 
