@@ -2,10 +2,10 @@ const content = {
   tr: {
     header: {
       nav: [
-        { label: 'Skills', href: '#skills' },
-        { label: 'Projects', href: '#projects' },
+        { label: 'Yetenekler', href: '#skills' },
+        { label: 'Projeler', href: '#projects' },
       ],
-      hire: 'Hire me',
+      hire: 'Beni işe al',
       languageCTA: "TÜRKÇE'YE GEÇ",
     },
     hero: {
@@ -98,7 +98,7 @@ title:
       socials: [
         { label: 'Kişisel Blog', href: '#' },
         { label: 'Github', href: 'https://github.com/gegetxt' },
-        { label: 'Linkedin', href: 'http://www.linkedin.com/in/gizem-g-4b48a124' },
+        { label: 'Linkedin', href: 'http://www.linkedin.com/in/gizem-g-4b48a1245' },
       ],
     },
   },
